@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+.post-header{
+    margin:20px 20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+.post-header-left{
+    display:flex;
+    justify-content: space-between;
+}
+
+.post-header-texto{
+    display:flex;
+    font-size: 12px;
+}
+span{
+    margin-left: 5px;
+}
+
+.post-img img{
+    width:100%;
+}
+
+.post-iconos{
+    margin:20px 10px 20px 10px;
+    display:flex;
+    justify-content: space-between;
+}
+
+i{
+    font-size: 30px;
+    padding-right: 10px;
+}
+
+p{
+    padding-left:10px;
+    padding-right:5px;
+    margin-bottom: 10px;
+
+}
